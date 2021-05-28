@@ -1,5 +1,3 @@
-## Oh, Hello! 👋 I didn't see you there!
-
 ### 🔭 Projects I’m currently working on:
 
 - **[AMApp](https://github.com/martindevnow/amapp)** :: An application for hosting an AMA, curating questions and hosting VODs of previous AMAs.
