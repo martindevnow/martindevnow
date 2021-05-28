@@ -16,10 +16,12 @@
 
 - [Email](the.one.martin@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mrbenjaminmartin/) is probably the most reliable.
 
+<!--
 ### 😄 Pronouns: 
 - He/Him, though I identify as gender-fluid
 
-<!-- ## ⚡ Fun fact: ... -->
+### ⚡ Fun fact: ... 
+-->
 
 <!--
 **martindevnow/martindevnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
